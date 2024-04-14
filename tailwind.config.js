@@ -21,3 +21,13 @@ module.exports = {
     },
   },
 };
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        "custom-blue": "#0c143c",
+      },
+    },
+  },
+  plugins: [],
+};
